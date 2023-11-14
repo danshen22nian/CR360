@@ -3,7 +3,7 @@
  
 ------
  
-Noticed that our proposed `unsupervised approcach` based on knowledge transfer and data mining mechieasm. Therefore, it is necessary to prepare some unlabeled panoramic data and some data you would like predicted their catergory-level ranking info.
+Noticed that our proposed `unsupervised approach` based on knowledge transfer and data mining mechieasm. Therefore, it is necessary to prepare some unlabeled panoramic data and some data you would like predicted their catergory-level ranking info.
 
 ## Table of Contents:
 > * Requirements
