@@ -3,7 +3,7 @@
  
 ------
  
-Noticed that our proposed `unsupervised approach` based on knowledge transfer and data mining mechieasm. Therefore, it is necessary to prepare some unlabeled panoramic data and some data you would like predicted their catergory-level ranking info.
+&ensp Noticed that our proposed `unsupervised approach` based on knowledge transfer and data mining mechieasm. Therefore, it is necessary to prepare some unlabeled panoramic data and some data you would like predicted their catergory-level ranking info.
 
 ## Table of Contents:
 > * Requirements
@@ -33,8 +33,9 @@ Choose any Fusion-net in the fold, and ran `my_predict.py` to generate final cat
 If you want to evaluate you results, run `new_sor.py` and change the input_path to you own.
 
 ## 4. CR-360 dataset:
-Since there is no related dataset we could adopt ot access our proposed paradigm, a brand-new `CR-360` dataset is constructed with total 557 panoramic images with dence instance-level masks among 151 catergories. Besides, we also provied robust category-lavel ranking labels manually annootated by 13 volunteers.
-And we have released this datdase in : [Google Drive](https://drive.google.com/file/d/1UZ1PQvbHXVUF2HskD1xYAXVIM5JsenYm/view?usp=drive_link)
+&nbsp;&nbsp; Since there is no related dataset we could adopt ot access our proposed paradigm, a brand-new `CR-360` dataset is constructed with total 557 panoramic images with dence instance-level masks among 151 catergories. Besides, we also provied robust category-lavel ranking labels manually annootated by 13 volunteers.  
+&nbsp;&nbsp; And we have released this datdase in : [Google Drive](https://drive.google.com/file/d/1UZ1PQvbHXVUF2HskD1xYAXVIM5JsenYm/view?usp=drive_link)
+[]()
 
 
 
