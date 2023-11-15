@@ -34,6 +34,7 @@ If you want to evaluate you results, run `new_sor.py` and change the input_path 
 
 ## 4. CR-360 dataset:
 Since there is no related dataset we could adopt ot access our proposed paradigm, a brand-new `CR-360` dataset is constructed with total 557 panoramic images with dence instance-level masks among 151 catergories. Besides, we also provied robust category-lavel ranking labels manually annootated by 13 volunteers.
+And we have released this datdase in : [Google Drive](https://drive.google.com/file/d/1UZ1PQvbHXVUF2HskD1xYAXVIM5JsenYm/view?usp=drive_link)
 
 
 
