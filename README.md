@@ -21,7 +21,7 @@ Noticed that our proposed `unsupervised approach` based on knowledge transfer an
  
 ## 3. Detailed Procedure:
 * #### `Data_preprocess`
-&nbsp;&nbsp; DETR or any other object detector tools are required to generate semantic features for raw unlabeled data. And Please save the bounding boxes info and semantic embedding for each instances in image. Then run the `EncodeForEmbed.py` to yield image-level features and `sal_toInsRank.py` to get Pesudo Instance-level labels.
+&nbsp;&nbsp; DETR or any other object detector tools are required to generate semantic features for raw unlabeled data. And Please save the bounding boxes info and semantic embedding for each instances in image. Then run the `EncodeForEmbed.py` to yield image-level features and `sal_toInsRank.py` to get Pesudo Instance-level labels.  
 &nbsp;&nbsp; If you don't have a large amount unlabeled data, we also prepare our raw dataset here: [Google Drive](), including matched pseudo labels and the extracted features of images and instances.
 
 * #### `CR_knowledgeDist`
