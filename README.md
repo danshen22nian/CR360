@@ -33,11 +33,15 @@ Prepare new scenes and follow former step to extract semantic features. Then run
 Change the input path and label path to your own. Then, choose any Fusion-net in the folder, and run `train.py` to generate final category-level rank.
 
 **For test:**
-Choose any Fusion-net in the folder, and run `my_predict.py` to generate final category-level rank. Or we preapre a model weight with TranSalNet on our Unet Fusion-Net here: [Google Drive](https://drive.google.com/file/d/1QaYl_L8E1kmSflcByOGa-jxjx8dPhf-8/view?usp=sharing).
+Choose any Fusion-net in the folder, and run `my_predict.py` to generate final category-level rank. Or we preapre a model weight with TranSalNet on our Unet Fusion-Net here:   
+[Google Drive](https://drive.google.com/file/d/1QaYl_L8E1kmSflcByOGa-jxjx8dPhf-8/view?usp=sharing)  
+[Baidu Drive](https://pan.baidu.com/s/1ewYj48qTyCmiWgUaqVIFLw)提取码：f6jw
 
 ## 4. CR-360 dataset:
 &nbsp;&nbsp; Since there is no related dataset we could adopt ot access our proposed paradigm, a brand-new `CR-360` dataset is constructed with total 557 panoramic images with dence instance-level masks among 151 catergories. Besides, we also provied robust category-lavel ranking labels manually annootated by 13 volunteers.  
-&nbsp;&nbsp; And we have released this datdase in : [Google Drive](https://drive.google.com/file/d/1UZ1PQvbHXVUF2HskD1xYAXVIM5JsenYm/view?usp=sharing)
+&nbsp;&nbsp; And we have released this datdase in :   
+[Google Drive](https://drive.google.com/file/d/1UZ1PQvbHXVUF2HskD1xYAXVIM5JsenYm/view?usp=sharing)  
+[Baidu Drive](https://pan.baidu.com/s/1s6RF9g_Mg76mehsFjQy6pw) 提取码：qse9
 <div align="center"><img src="/figure/class.svg" width="500" height="" alt=""/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Categories of our proposed CR-360 dataset.
 
